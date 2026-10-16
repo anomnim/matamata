@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF=-1 type="playlist", dhany
+https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
+
+#EXTINF=-1 type="playlist", ShareExt
+https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/refs/heads/main/Shareext@LokalHiburan.m3u
+
+#EXTINF=-1 type=
