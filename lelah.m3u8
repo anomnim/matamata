@@ -3,7 +3,8 @@
 #EXTINF=-1 type="playlist", dhany
 https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
 
-#EXTINF=-1 type="playlist", lelipur
+#EXTINF=-1 type="playlist", apistech
+https://raw.githubusercontent.com/apistech/project/refs/heads/main/IndihomeTV.m3u
 #https://raw.githubusercontent.com/mimipipi22/live/main/lelipur
 
 #EXTINF=-1 type="playlist", ShareExt
