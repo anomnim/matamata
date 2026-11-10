@@ -1,22 +1,34 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@SHAREEXT@REBORN
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID",TVN MOVIES (TRANS2)
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/net.png",MDTV (TRANS2)
-http://202.150.161.212:5000/live/channel31/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID",BIOSKOP INDONESIA (TRANS2)
-http://202.150.161.212:5000/live/channel35/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID",JTV (TRANS2)
-http://202.150.161.212:5000/live/channel38/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="Shareext@LOKAL_ID",MOJI (TRANS2)
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JVZdVBa.jpeg" group-title="Shareext@LOKAL_ID", Tribunnews.Com
+https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH16ap1.jpeg" group-title="Shareext@LOKAL_ID", CNBC Indonesia
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PfH7DFq.jpeg" group-title="Shareext@LOKAL_ID", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_sleng.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WZ5h0LV.jpeg" group-title="Shareext@LOKAL_ID",Trans TV 
+https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w26855752598_b744100_sleng.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvICauU.jpeg" group-title="Shareext@LOKAL_ID",Trans 7
+https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w26855752592_b744100_sleng.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.0.0.1" group-title="Shareext@LOKAL_ID", NET..
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
@@ -43,74 +55,86 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (R+) 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV (V+) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=2&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=2
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV (R+) 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png",GTV (V+) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=3&type=drm&token=apistech
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=3
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png",GTV (R+) 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.postimg.cc/630YHFpy/inews-id.png",INEWS (V+) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=4&type=drm&token=apistech
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=4
+https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.postimg.cc/630YHFpy/inews-id.png",INEWS (R+) 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.postimg.cc/CMGv5BCF/trans-tv-id.png",TRANS TV (V+) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=6&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=6
+https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.postimg.cc/qvRQ11Pv/trans-7-id.png",TRANS 7 (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=7&type=drm&token=apistech
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=7
+https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="Shareext@LOKAL_ID",TRANS TV (DTK)
-https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="Shareext@LOKAL_ID",TRANS 7 (DTK)
-https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
@@ -148,6 +172,54 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",HBO (TRANS)
+http://202.150.165.66:8088/play/100-HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",HBO Family (TRANS)
+http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",HBO Hits (TRANS)
+http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",HBO Signature (TRANS)
+http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Cinemax (TRANS)
+http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",ANTV (TRANS)
+http://202.150.165.66:8088/play/807-ANTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",AXN (TRANS)
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",TRANS TV HD (TRANS)
+http://202.150.165.66:8088/play/800-TransTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",TRANS 7 HD (TRANS) 
+http://202.150.165.66:8088/play/801-Trans7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Indosiar (TRANS)
+http://202.150.165.66:8088/play/809-Indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",KBS World (TRANS)
+http://202.150.165.66:8088/play/323-KBSWorld/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",MNC (TRANS)
+http://202.150.165.66:8088/play/812-MNCTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",RCTI (TRANS)
+http://202.150.165.66:8088/play/811-RCTI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",RTV (TRANS)
+http://202.150.165.66:8088/play/818-RTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",SCTV (TRANS)
+http://202.150.165.66:8088/play/808-SCTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Thrill (TRANS)
+http://202.150.165.66:8088/play/109-Thrill/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",TvOne (TRANS)
+http://202.150.165.66:8088/play/806-TvOne/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Warner TV (TRANS)
+http://202.150.165.66:8088/play/302-WarnerTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Zee Bioskop (TRANS)
+http://202.150.165.66:8088/play/110-ZeeBioskop/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",tVN (TRANS)
+http://202.150.165.66:8088/play/321-tvN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",tvN Movies (TRANS)
+http://202.150.165.66:8088/play/106-tvNMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Cinema World (TRANS)
+http://202.150.165.66:8088/play/105-CinemaWorld/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Celestial Movies (TRANS)
+http://202.150.165.66:8088/play/108-Celestial/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Bioskop Indonesia (TRANS)
+http://202.150.165.66:8088/play/107-BioskopIndonesia/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -167,11 +239,9 @@ http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07
 http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="Cinemax" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79znp.png",Cinemax (inditv)
+#EXTINF:-1 tvg-id="Cinemax" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79znp.png",astro FAM time
 http://31.43.191.125:8080/restream/restream/34572
 
-#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ LIVE TV",tvN Movies(trans2)
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 #EXTINF:-1 tvg-id="73" tvg-logo="https://www.visionplus.id/images/repository/103/458103-LOGO-m.png" group-title="SHAREEXT@ LIVE TV",TVN_cloud
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -180,249 +250,263 @@ http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:0
 #EXTINF:-1 tvg-id="tvN.Movies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ LIVE TV",TVN MOVIES (VIP)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34347.ts
-#http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34347.ts
+#EXTINF:-1 tvg-id="tvN.Movies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ LIVE TV",TVN MOVIES (restream)
+http://31.43.191.125:8080/live/restream/restream/34347.ts
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=73&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=73
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="SHAREEXT@ LIVE TV",TVN (V+) 
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
+##https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=46&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=46
 #EXTINF:-1 tvg-id="tvN.Movies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ LIVE TV",TVN MOVIES (V+) 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTINF:-1 tvg-id="tvN.Movies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ LIVE TV",TVN MOVIES (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvn.png",tvN (cbm)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/dash/dHZOQ2hhbm5lbA/manifest.mpd?signature=MDY4YmM5YzViZDIyNzQ1YTFiYWQxZmI4MTk3MGNhNzc=&time=77777777777&device_id=31hTlAswCVUSCphdU80IuVNFq9svW9ztrVLGuk2Hi8AXg_zbRw
-
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvnmovies.png",tvN Movies (cbm)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/dash/VFZOIE1vdmllcw/manifest.mpd?signature=MmIwYWZmMTRiZjRmZjYwMjBiYmU5NDJmYmJmZmQ2YzU=&time=77777777777&device_id=zbMFA3Dd4u1yE1EiZW0DHsLpTN_UltV9neTFNNL0X9RvdI31MA
 
 #EXTINF:-1 group-title="SHAREEXT@ LIVE TV" tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-movies183x174@3x.jpg",WeDoTv Movies (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h70/wedotv_movie.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=36&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="ORIGINALS.id" tvg-name="Originals" tvg-logo="https://mimipipi22.github.io/logo/movies/originals.jpg" group-title="SHAREEXT@ LIVE TV",ORIGINALS (V+)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+https://proxy-v.rctiplus.id/live/web/originals/index.m3u8
+##https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=38&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="UNIQUES.id" tvg-name="Uniques" tvg-logo="https://mimipipi22.github.io/logo/movies/uniques.jpg" group-title="SHAREEXT@ LIVE TV",UNIQUES (V+)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+https://proxy-v.rctiplus.id/live/web/uniques/index.m3u8
+##https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=39&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="SUPRERRIX.id" tvg-name="Superrix" tvg-logo="https://mimipipi22.github.io/logo/movies/superrix.jpg" group-title="SHAREEXT@ LIVE TV",SUPPERRIX (V+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+https://proxy-v.rctiplus.id/live/web/superrix/index.m3u8
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=40&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="CINEEDGE.id" tvg-name="CineEdge" tvg-logo="https://mimipipi22.github.io/logo/movies/cineedge.jpg" group-title="SHAREEXT@ LIVE TV",CINEEDGE (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+https://proxy-v.rctiplus.id/live/web/cineedge/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=37&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="BUDDY.STARS.id" tvg-name="Buddy Star" tvg-logo="https://mimipipi22.github.io/logo/movies/buddystar.jpg" group-title="SHAREEXT@ LIVE TV",BUDDY STAR (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+https://proxy-v.rctiplus.id/live/web/buddystars/index.m3u8
+##https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=48&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Galaxy.Premium.id" tvg-name="GALAXY Premium.id" tvg-logo="https://mimipipi22.github.io/logo/movies/galaxypremium.jpg" group-title="SHAREEXT@ LIVE TV",GALAXY PREMIUM (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
+##https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=49&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Galaxy.id" tvg-name="GALAXY" tvg-logo="https://mimipipi22.github.io/logo/movies/galaxy.jpg" group-title="SHAREEXT@ LIVE TV",GALAXY (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=54&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=54
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Studio.Universal.id" tvg-name="Studio Universal" tvg-logo="https://mimipipi22.github.io/logo/movies/studiouniversal.jpg" group-title="SHAREEXT@ LIVE TV",STUDIO UNIVERSAL (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+https://proxy-v.rctiplus.id/live/web/studiouniversal/index.m3u8
+##https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=93&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Rock.Action.id" tvg-name="ROCK Action" tvg-logo="https://mimipipi22.github.io/logo/movies/rockaction.jpg" group-title="SHAREEXT@ LIVE TV",ROCK ACTION (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
+##https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=44&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="Celestial Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/celestialmovies.jpg" group-title="SHAREEXT@ LIVE TV",CELESTIAL MOVIES (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=41&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://mimipipi22.github.io/logo/movies/thrill.jpg" group-title="SHAREEXT@ LIVE TV",THRILL (V+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+https://proxy-v.rctiplus.id/live/web/thrill/index.m3u8
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=42&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="HITS.MOVIES.id" tvg-name="Hits Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/hitsmovies.jpg" group-title="SHAREEXT@ LIVE TV",HITS MOVIES (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
+https://proxy-v.rctiplus.id/live/web/hitsmovies/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe HD" tvg-logo="https://mimipipi22.github.io/logo/movies/mycinemaeurope.jpg" group-title="SHAREEXT@ LIVE TV",MY CINEMA EUROPE
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=45&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="CCM" tvg-logo="https://mimipipi22.github.io/logo/movies/ccm.jpg" group-title="SHAREEXT@ LIVE TV",CCM (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+https://proxy-v.rctiplus.id/live/web/celestialclassic/index.m3u8
+##https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=47&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="ZBioskop.id" tvg-name="Z Bioskop" tvg-logo="https://mimipipi22.github.io/logo/movies/zbioskop.jpg" group-title="SHAREEXT@ LIVE TV",Z BIOSKOP (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+https://proxy-v.rctiplus.id/live/web/zeebioskop/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=79&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=79
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="SHAREEXT@ LIVE TV",AXN (V+)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+https://proxy-v.rctiplus.id/live/web/axn/index.m3u8
+##https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=92&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=92
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/rockent.jpg" group-title="SHAREEXT@ LIVE TV",ROCK ENTERTAINMENT (V+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+https://proxy-v.rctiplus.id/live/web/rockentertainment/index.m3u8
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=68&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/hitsnow.jpg" group-title="SHAREEXT@ LIVE TV",HITS NOW (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
+https://proxy-v.rctiplus.id/live/web/hitsnow/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=77&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://mimipipi22.github.io/logo/entertainment/hits.jpg" group-title="SHAREEXT@ LIVE TV",HITS (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+https://proxy-v.rctiplus.id/live/web/hits/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=75&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=75
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kix.jpg" group-title="SHAREEXT@ LIVE TV",KIX (V+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+https://proxy-v.rctiplus.id/live/web/kix/index.m3u8
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=138&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=138
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="Lifetime" tvg-logo="https://mimipipi22.github.io/logo/entertainment/lifetime.jpg" group-title="SHAREEXT@ LIVE TV",LIFETIME (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
+https://proxy-v.rctiplus.id/live/web/lifetime/index.m3u8
+##https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=70&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=70
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://www.visionplus.id/images/repository/548/604548-LOGO-m.png" group-title="SHAREEXT@ LIVE TV",SET (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a82a32a7b69f40f58ae25d619548d215/index.mpd
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a82a32a7b69f40f58ae25d619548d215/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=69&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=69
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://www.visionplus.id/images/repository/317/604317-LOGO-m.png" group-title="SHAREEXT@ LIVE TV",FTV (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd
 
-#KODI}PROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=65&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD" tvg-logo="https://mimipipi22.github.io/logo/entertainment/animax.jpg" group-title="SHAREEXT@ LIVE TV",ANIMAX (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
+##https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=92&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=92
+##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=92&type=drm&token=apistech
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Entertainment.id" tvg-name="Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/entertainment.jpg" group-title="SHAREEXT@ LIVE TV",ENT (V+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
+https://proxy-v.rctiplus.id/live/web/entertainment/index.m3u8
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=87&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=87
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Vision.Prime.id" tvg-name="Vision Prime" tvg-logo="https://mimipipi22.github.io/logo/entertainment/visionprime.jpg" group-title="SHAREEXT@ LIVE TV",VISION PRIME (V+)
-https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+https://proxy-v.rctiplus.id/live/web/visionprime/index.m3u8
+##https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ LIVE TV", BOO
 http://tv.cloudcdn.me/live.ts?channelId=133064&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -477,40 +561,6 @@ http://173.208.234.146/live/fhzw.m3u8
 http://120.234.44.98:18180/TV00000000000000000024@HHZT
 http://173.208.234.146/live/fhxg.m3u8
 
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://i.postimg.cc/G2wSHkHK/ezgif-737614d035dfd997.png",HBO TAIWAN
-https://play-drm.aliiptv.com/live/hbotw.m3u8?verify=1790056444-tDBo1je7aKklYPa7xgm2umnr4TGv8S5mpTeKOZX4rPs
-
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://i.postimg.cc/PfMF5vhb/ezgif-767c5df2b247daf5.png",HBO FAMILY TAIWAN
-https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
-
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png",HBO HITS TAIWAN
-https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
-
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png",HBO SIGNATURE TAIWAN
-https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
-
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX TAIWAN
-https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
-https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
-
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://iili.io/nRInyfp.png",CINE P.
-https://play-drm.aliiptv.com/live/cinep.m3u8?verify=1790055685-41qU2mWvdiouBURMyXVOyxEzMOUldQwQyJYPk9UE7CA
-
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://i.postimg.cc/WpB7Q0WP/ezgif-76552b0bd0bf02e8.png",DISCOVERY CHANNEL TAIWAN
-https://p-drm.aliiptv.com/live/Discovery.m3u8?verify=1790056187-L7qo-VC4FaVADdbd2gWY6ZysxHyv-mgIAPgQ02KM37U
-
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://i.postimg.cc/L4Y17Nfh/ezgif-2-1b576c2a7f.png",ANIMAL PLANET TAIWAN
-https://play-drm.aliiptv.com/live/dwxq.m3u8?verify=1790056236-RsMsLXTXVKL1APEKLZOCzUAT8j4krAAF16eEtK7euLg
-
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png",BBC LIFESTYLE TAIWAN
-https://play-drm.aliiptv.com/live/BBCLifestyle.m3u8?verify=1790056258-937Ogv46aANf4VYzcc58e28264Q0hXi7qWICUV5W0VU
-
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://i.postimg.cc/g0ft8QZm/ezgif-7fcea27e75a5aab2.png",CARTOON NETWORK TAIWAN
-https://play-drm.aliiptv.com/live/cnkt.m3u8?verify=1790056492-z_kcj-4T_dhOI97ARxEdze0-GjYuatr5oYZC-tsv0i0
-
-#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner-tv-us.png",WARNER BROS.TV TAIWAN
-https://play-drm.aliiptv.com/live/warnertv.m3u8?verify=1790056290-4w7vbzmuwXKZyBBGiSOJERiRrXvWX5rqEGe_H61vbuQ
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ LIVE TV", AOD (MLY) 
 https://cdn.qd.je/163189.php?id=aod
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ LIVE TV", Astro欢喜台 (MLY) 
@@ -538,49 +588,55 @@ http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=201&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=201
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rctiw.jpg" group-title="SHAREEXT@ LIVE TV", RCTI WORLD (V+) 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/index.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mnctv.jpg" group-title="SHAREEXT@ LIVE TV",MNCTV (V+)
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=2&type=drm&token=apistech
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=2
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=2
+##KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=2
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=203&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=203
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mnctvw.jpg" group-title="SHAREEXT@ LIVE TV",MNCTV WORLD (V+) 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/52f468e951c14c6ba80d4d31c833fce6/index.mpd
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtv.jpg" group-title="SHAREEXT@ LIVE TV",GTV (V+)
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=3&type=drm&token=apistech
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=3
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg" group-title="SHAREEXT@ LIVE TV",INEWS (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=4&type=drm&token=apistech
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=4
+https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
+##https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -595,8 +651,9 @@ https://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=5&type=drm&token=apistech
-https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=5
+https://proxy-v.rctiplus.id/live/web/sindonews/index.m3u8
+##https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -629,32 +686,37 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lit
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=12&type=drm&token=apistech
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=12
+https://proxy-v.rctiplus.id/live/web/tvone/index.m3u8
+##https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=10&type=drm&token=apistech
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=10
+##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=10&type=drm&token=apistech
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg" group-title="SHAREEXT@ LIVE TV",ANTV (V+) 
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+##https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="SHAREEXT@ LIVE TV",TRANS 7 (V+) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=7&type=drm&token=apistech
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=7
+https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="SHAREEXT@ LIVE TV",TRANS TV (V+) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=6&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=6
+https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ LIVE TV",TV9 NUSANTARA 
@@ -928,6 +990,178 @@ https://tvratu.my.id/vid/index.mpd?id=12784&type=dash
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TRANS 7 HD 
+http://202.150.165.66:8088/play/801-Trans7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TRANS TV HD
+http://202.150.165.66:8088/play/800-TransTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",ANTV
+http://202.150.165.66:8088/play/807-ANTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",AXN
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Al Bahza
+http://202.150.165.66:8088/play/709-AlBahza/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Al Jazeera
+http://202.150.165.66:8088/play/603-AlJazeera/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Al Quran Al Kareem
+http://202.150.165.66:8088/play/700-AlQuran/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Al Wafa Tareem
+http://202.150.165.66:8088/play/708-AlwafaTareem/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",AngelTV
+http://202.150.165.66:8088/play/710-AngelTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Arirang
+http://202.150.165.66:8088/play/610-Arirang/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",BTV
+http://202.150.165.66:8088/play/813-BTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",BaliTV
+http://202.150.165.66:8088/play/821-BaliTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Berita Satu
+http://202.150.165.66:8088/play/823-BeritaSatu/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Bioskop Indonesia
+http://202.150.165.66:8088/play/107-BioskopIndonesia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CCTV 4
+http://202.150.165.66:8088/play/330-CCTV4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CGTN
+http://202.150.165.66:8088/play/601-CGTN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CGTN Documentary
+http://202.150.165.66:8088/play/232-CGTNDoc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CNBC Asia
+http://202.150.165.66:8088/play/609-CNBCAsia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CNBC INDONESIA HD
+http://202.150.165.66:8088/play/803-CNBCIndonesia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CNN INDONESIA HD 
+http://202.150.165.66:8088/play/802-CNNIndonesia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CNN International
+http://202.150.165.66:8088/play/600-CNNInter/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Cartoon Network
+http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Cartoon TV
+http://202.150.165.66:8088/play/207-CartoonTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Cartoon TV Premium
+http://202.150.165.66:8088/play/209-CartoonTVPremium/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Cartoonito
+http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Celestial Movies
+http://202.150.165.66:8088/play/108-Celestial/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Channel News Asia
+http://202.150.165.66:8088/play/602-ChannelNewsAsia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Cinema World
+http://202.150.165.66:8088/play/105-CinemaWorld/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Cinemax
+http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",DAAI
+http://202.150.165.66:8088/play/705-DAAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",DW
+http://202.150.165.66:8088/play/604-DW/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Dunia Anak
+http://202.150.165.66:8088/play/202-DuniaAnak/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Dunia Lain
+http://202.150.165.66:8088/play/326-DuniaLain/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Eat N Go
+http://202.150.165.66:8088/play/325-EatnGo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Euronews
+http://202.150.165.66:8088/play/605-Euronews/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Fashion TV
+http://202.150.165.66:8088/play/306-FashionTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Fight TV
+http://202.150.165.66:8088/play/622-FightTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",France24
+http://202.150.165.66:8088/play/606-France24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",GTV
+http://202.150.165.66:8088/play/813-GTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Gaming  TV
+http://202.150.165.66:8088/play/305-GamingTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Garuda TV
+http://202.150.165.66:8088/play/824-GarudaTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Golf+
+http://202.150.165.66:8088/play/621-GolfPlus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",HBO
+http://202.150.165.66:8088/play/100-HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",HBO Family
+http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",HBO Hits
+http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",HBO Signature
+http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Indosiar
+http://202.150.165.66:8088/play/809-Indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Insert
+http://202.150.165.66:8088/play/324-Insert/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Jak TV
+http://202.150.165.66:8088/play/819-JakTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Jowo TV
+http://202.150.165.66:8088/play/327-Jowo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",KBS World
+http://202.150.165.66:8088/play/323-KBSWorld/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Khazanah
+http://202.150.165.66:8088/play/701-Khazanah/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Knowledge+
+http://202.150.165.66:8088/play/233-Knowledge/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",KompasTV
+http://202.150.165.66:8088/play/810-KompasTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",MDTV
+http://202.150.165.66:8088/play/817-MDTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",MNC
+http://202.150.165.66:8088/play/812-MNCTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",MOJI
+http://202.150.165.66:8088/play/815-MOJI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",MetroTV
+http://202.150.165.66:8088/play/805-MetroTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Musik Indonesia
+http://202.150.165.66:8088/play/328-MusikIndonesia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",NHK
+http://202.150.165.66:8088/play/331-NHK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Nabawi TV
+http://202.150.165.66:8088/play/707-Nabawi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",ONE Tv
+http://202.150.165.66:8088/play/395-ONETv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",PSJTV
+http://202.150.165.66:8088/play/625-PSJTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Pijar TV
+http://202.150.165.66:8088/play/706-PijarTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",RCTI
+http://202.150.165.66:8088/play/811-RCTI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",RTV
+http://202.150.165.66:8088/play/818-RTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Russia Today
+http://202.150.165.66:8088/play/607-RussiaToday/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",SCTV
+http://202.150.165.66:8088/play/808-SCTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",SalingSapa TV
+http://202.150.165.66:8088/play/704-SalingSapa/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Sports TV
+http://202.150.165.66:8088/play/623-SportsTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TV5 Monde
+http://202.150.165.66:8088/play/304-TV5Monde/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TV9
+http://202.150.165.66:8088/play/703-TV9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TVMu
+http://202.150.165.66:8088/play/702-TVMu/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TVRI
+http://202.150.165.66:8088/play/814-TVRI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TVRI Sport
+http://202.150.165.66:8088/play/624-TVRISport/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Thrill
+http://202.150.165.66:8088/play/109-Thrill/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TvOne
+http://202.150.165.66:8088/play/806-TvOne/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",WION
+http://202.150.165.66:8088/play/wion-113/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Warner  TV
+http://202.150.165.66:8088/play/302-WarnerTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Zee Bioskop
+http://202.150.165.66:8088/play/110-ZeeBioskop/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",jtv
+http://202.150.165.66:8088/play/820-jtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",tVN
+http://202.150.165.66:8088/play/321-tvN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",tvN Movies
+http://202.150.165.66:8088/play/106-tvNMovies/index.m3u8
+
+
+
+
+
+
 
 
 
@@ -1166,6 +1400,30 @@ http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="auto.salira.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="SHAREEXT@TEVE_DAERAH",••Salira TV
 https://live.salira.tv/p/3870/hybrid/play.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&s" group-title="SHAREEXT@TEVE_DAERAH" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id",Jowo Channel 
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8 
+
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="SHAREEXT@TEVE_DAERAH", STARATV Majalengka 
+#EXTVLCOPT:http-referrer=https://tv.garden/ 
+https://stream.staratv.id/hls/stream.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="SHAREEXT@TEVE_DAERAH", STARATV Jakarta 
+https://jakarta.staratv.id/hls/stream.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="SHAREEXT@TEVE_DAERAH", STARATV Bandung 
+#EXTVLCOPT:http-referrer=https://tv.garden/ 
+https://bandung.staratv.id/hls/0/stream.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="SHAREEXT@TEVE_DAERAH", STARATV Bojonegoro 
+#EXTVLCOPT:http-referrer=https://tv.garden/ 
+https://bojonegoro.staratv.id/hls/stream.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="SHAREEXT@TEVE_DAERAH", STARATV Parahyangan 
+#EXTVLCOPT:http-referrer=https://tv.garden/ 
+https://parahyangan.staratv.id/hls/0/stream.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -2334,8 +2592,6 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 https://cdn-live.dltv.ac.th/dltv05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="SHAREEXT@THAiLandTv", DLTV 10
 https://cdn-live.dltv.ac.th/dltv10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GhboFGt.png" group-title="SHAREEXT@THAiLandTv", Police TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="SHAREEXT@THAiLandTv", DLTV 2
 https://cdn-live.dltv.ac.th/dltv02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="SHAREEXT@THAiLandTv", DLTV 12
@@ -2350,8 +2606,6 @@ https://cdn-live.dltv.ac.th/dltv03.m3u8
 https://cdn-live.dltv.ac.th/dltv07.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/topnews.png" group-title="SHAREEXT@THAiLandTv", Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", Yateem TV (New!)
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", WhiteChannel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", News1
@@ -2364,18 +2618,8 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png" group-title="SHAREEXT@THAiLandTv", CNA
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4kwV5Sy.png" group-title="SHAREEXT@THAiLandTv", NBT 11 Northeast
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/altv.png" group-title="SHAREEXT@THAiLandTv", ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8hYQIxS.png" group-title="SHAREEXT@THAiLandTv", NBT 11 Central
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8hYQIxS.png" group-title="SHAREEXT@THAiLandTv", NBT 11 North
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4K22fqQ.png" group-title="SHAREEXT@THAiLandTv", NBT 11 South
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wgd3zgpi68gasbr/coolchannel.png?dl=0" group-title="SHAREEXT@THAiLandTv", Cool Channel
-https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="SHAREEXT@THAiLandTv", Cable Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
@@ -2383,6 +2627,101 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://nettvpro.xyz/uploads/26/1-2603011F2294W.png",THVL 1
+https://dethich.pw/thvl1/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://nettvpro.xyz/uploads/26/1-2603011F4203Q.png",THVL 2
+https://dethich.pw/thvl2/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://nettvpro.xyz/uploads/allimg/26/1-2603011F5490-L.png",THVL 3
+https://dethich.pw/thvl3/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://nettvpro.xyz/uploads/allimg/26/1-2603011F9460-L.png",THVL 4
+https://dethich.pw/thvl4/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://nettvpro.xyz/uploads/allimg/26/1-2603011G1520-L.png",THVL 5
+https://dethich.pw/thvl5/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/3w9mH7PW/ezgif-7144be457ddfb1dc.png",VTV 1
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+https://dethich.pw/vtv1/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/bvdk848K/ezgif-7a63884689a8ad3a.png",VTV 2
+https://dethich.pw/vtv2/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/qRsRdGtj/ezgif-79a52cda37f51a81.png",VTV 3
+https://dethich.pw/vtv3/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/hPjSCnrK/ezgif-7aa933237f2ef66a.png",VTV 4
+https://dethich.pw/vtv4/index.m3u8
+http://125.227.210.55:1090/VideoInput/play.ts
+
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/DyHKBX0B/ezgif-77e2c7217e938234.png",VTV 5
+https://dethich.pw/vtv5/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/ncqFjXPm/vtv-5-tay-nam-bo.png",VTV 5 TÂY NAM BỘ
+https://dethich.pw/vtv5tnb/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/nhZHvnyS/vtv-5-tay-nguyen.png",VTV 5 TÂY NGUYÊN
+https://dethich.pw/vtv5tn/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/6QhgJ2Wc/ezgif-7d79e52205b57e3b.png",VTV 6
+https://dethich.pw/vtv6/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/CKJPr3JL/ezgif-7f87ebf36c374f16.png",VTV 7
+https://dethich.pw/vtv7/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/GmjnrSzG/ezgif-7d461d5a3f50935d.png",VTV 8
+https://dethich.pw/vtv8/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/x1nBs3YG/ezgif-711d055bc53f50b3.png",VTV 9
+https://dethich.pw/vtv9/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/Y9Dxjc22/vtv-10.png",VTV 10
+https://dethich.pw/vtv10/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-1-vn.png",HTV1
+https://dethich.pw/htv1/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-2-vn.png",HTV2
+https://dethich.pw/htv2/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/7JSnwFJk/ezgif-26f35dff86eb4350.png",HTV3
+https://dethich.pw/htv3/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-4-vn.png",HTV4
+https://dethich.pw/htv4/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-5-bchannel-vn.png",HTV5
+https://dethich.pw/htv5/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-7-vn.png",HTV7
+https://dethich.pw/htv7/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-the-thao-vn.png",HTV THÊ THAO
+https://dethich.pw/htvthethao/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-9-vn.png",HTV9
+https://dethich.pw/htv9/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/dd/dong-nai-tv-1-vn.png",DN1 NRTV
+https://dethich.pw/dongnai1/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/dd/dong-nai-tv-2-vn.png",DN2 NRTV
+https://dethich.pw/dongnai2/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/ZnnZ5T78/ezgif-2f736854ecac5d92.png",DN3 NRTV
+https://dethich.pw/dongnai3/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SCTV2-0.png/revision/latest?cb=20180627082740",SCTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=201
+##https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest?cb=20210819101244&path-prefix=vi",SCTV 3
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/SCTV4_logo_19-01-2023.png/revision/latest?cb=20230323071855&path-prefix=vi",SCTV 4
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/SCTV6.png/revision/latest?cb=20210220103413",SCTV 6
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/SCTV7_logo.png/revision/latest?cb=20220223142137&path-prefix=vi",SCTV 7
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SCTV8.png/revision/latest?cb=20220312144352",SCTV 8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv8/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/SCTV9.png/revision/latest/scale-to-width-down/200?cb=20210821040105&path-prefix=vi",SCTV 9
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/SCTV11_logo_2022.png/revision/latest?cb=20220428035154&path-prefix=vi",SCTV 11
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/SCTV12_logo.png/revision/latest/scale-to-width-down/220?cb=20201011030148",SCTV 12
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/45/SCTV13_logo.png/revision/latest?cb=20211211011126&path-prefix=vi",SCTV 13
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/SCTV14_logo_12-02-2026.png/revision/latest?cb=20260301113219&path-prefix=vi",SCTV 14
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/SCTV16.png/revision/latest?cb=20210820043927&path-prefix=vi",SCTV 16
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/SCTV18.png/revision/latest?cb=20210820120952&path-prefix=vi",SCTV 18
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV19.png/revision/latest?cb=20240131141543&path-prefix=vi",SCTV 19
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/SCTV20.png/revision/latest/scale-to-width-down/1200?cb=20210821042852&path-prefix=vi",SCTV 20
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wvmb38ns/shareext-vietnam-logo.jpg" group-title="SHAREEXT@Vietnam_television", BTV9
 https://freem3u.xyz/api/live/play.m3u8?vid=151
@@ -2532,7 +2871,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=194
 https://freem3u.xyz/api/live/play.m3u8?vid=195
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/VqNpntW/sctv2-hd.png",SCTV2
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-
 
 #EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
@@ -2694,8 +3032,6 @@ https://live.canthotv.vn/live/tv/chunklist.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|LAOS|TELEVISION", 膼峄搉g Nai 1(မြန်မာ)
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|LAOS|TELEVISION", 膼峄搉g Nai 2(မြန်မာ)
@@ -2744,6 +3080,177 @@ https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|LAOS|TELEVISION", Hmong TV Network (720p)(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/cc/celestial-movies-pinoy-hk.png",CELESTIAL MOVIES PINOY
+http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/pp/pinoy-box-office-ph.png",PBO
+http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/vv/viva-cinema-ph.png",VIVA CINEMA
+http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tagalized-movie-channnel-ph.png",TMC
+http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tfc_ph.png",TFC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/gg/gma.png",GMA TV
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/sXPdhcyT/ezgif-4003c49f2182bfcb.png",BILYONARYO CHANNEL
+http://136.239.158.18:6610/001/2/ch00000090990000001124/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001278&contentid=ch00000000000000001278&videoid=ch00000090990000001124&recommendtype=0&userid=1747224050385&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I3AR71L33CXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/dtk6N0Zv/ezgif-47c4698403605e9d.png",SPOTLIGHT
+http://136.239.158.30:6610/001/2/ch00000090990000001134/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5iGQ4tDytzSdpM9ehJW6pytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001281&contentid=ch00000000000000001281&videoid=ch00000090990000001134&recommendtype=0&userid=1790262524603&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MG695A5LWR8XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/gg/gtv-ph.png",GTV
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/ll/living-asia-channel-ph.png",LIVING ASIA CHANNEL
+http://136.239.173.26:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001334&contentid=ch00000000000000001334&videoid=ch00000090990000001154&recommendtype=0&userid=1116046860992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2KT43TGXV8SXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/aa/anc-ph.png",ANC
+http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001436&contentid=ch00000000000000001436&videoid=ch00000090990000001216&recommendtype=0&userid=1365005241451&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4U9VQT70SCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/mm/myx-ph.png",MYX
+http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/2j1V8PQH/ezgif-2adaa8e5ceb206e6.png",CINE MO!
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/mm/metro-channel-ph.png",METRO CHANNEL
+http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/cc/cinema_one_ph.png",C1 CINEMA ONE
+http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/kk/kapamilya-channel-ph.png",KAPAMILYA CHANNEL
+http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV
+http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/7ZjCLxKY/ezgif-4c7f27fe7e30ef72.png",SOLAR FLIX
+http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/ss/solar_sports_network.png",SOLAR SPORTS
+http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpTfGIKxFqRM2tu30PzY%2FKkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1572318406990&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O0NP6KUE17KXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tap-tv-ph.png",TAP TV
+http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tap-edge-ph.png",TAP EDGE
+http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq%2B2uVbDOBwGF5t4YHKR5dbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001320&contentid=ch00000000000000001320&videoid=ch00000090990000001150&recommendtype=0&userid=1305735838223&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NUZJDSE8GBEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tap-sports-ph.png",TAP SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tap-sports-ph.png",TAP SPORTS
+http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tap-movies-ph.png",TAP MOVIES
+http://136.239.159.20:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrqmX9tLke4aZIpUgreyOpNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001774&contentid=ch00000000000000001774&videoid=ch00000090990000001304&recommendtype=0&userid=1621837627360&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DE8LQ2K74YXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tap-action-flix-ph.png",TAP ACTION FLIX
+http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpahcUJJEYAxPtEef94INw1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1826997527749&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BJ80X0UU6VXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/3wRmTkjM/ezgif-284086c957a0e63d.png",BLAST MOVIES
+http://roch.ph/bongao/bongao/168.m3u8
+http://roch.ph/bongao/bongao/5495.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/50YF3Xjn/ezgif-1f1d683e25eb70ec.png",PREMIER SPORTS
+http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+http://roch.ph/bongao/bongao/94.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/NfzvhL0M/ezgif-467c31194804a156.png",PREMIER SPORTS 2
+http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+http://roch.ph/bongao/bongao/93.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",PREMIER FOOTBALL
+http://roch.ph/bongao/bongao/5490.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/oo/one-ph-ph.png",ONE PH
+http://roch.ph/bongao/bongao/46.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/oo/one-sports-ph.png",ONE SPORTS
+http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+http://roch.ph/bongao/bongao/87.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/1XV4p2C0/ezgif-1f3a1ab54506ecd3.png",EDGE SPORTS
+http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tv-5-ph.png",TV 5 
+http://roch.ph/bongao/bongao/36.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/aa/a2z-ph.png",A2Z
+http://roch.ph/bongao/bongao/38.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/jj/jeepney-tv-ph.png",JEEPNEY TV
+http://roch.ph/bongao/bongao/39.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/aa/alltv-2-ph.png",ALLTV 2
+http://roch.ph/bongao/bongao/42.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/aa/anc-ph.png",ANC
+http://roch.ph/bongao/bongao/43.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/pp/peoples-tv-ph.png",PTV
+http://roch.ph/bongao/bongao/44.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/ii/ibc-13-ph.png",IBC 13
+http://roch.ph/bongao/bongao/48.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/dd/dzmm-teleradyo-ph.svg",DZMM
+http://roch.ph/bongao/bongao/49.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/nn/nba-tv-philippines-us-ph.png",NBA TV PHILIPPINES
+http://roch.ph/bongao/bongao/85.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/kk/knowledge-channel-ph.png",K CH KNOWLEDGE CHANNEL
+http://roch.ph/bongao/bongao/97.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/hh/hallypop-ph.png",HALLYPOP
+http://roch.ph/bongao/bongao/119.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/uu/untv-ph.png",UNTV
+http://roch.ph/bongao/bongao/155.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/nn/net-25-ph.png",NET 25
+http://roch.ph/bongao/bongao/156.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/oo/oras-ng-himala-ph.png",ORAS NG HIMALA
+http://roch.ph/bongao/bongao/157.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/ii/inc_tv_ph.png",INC TV
+http://roch.ph/bongao/bongao/159.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Rock_Manila_Logo_2023.png/revision/latest/scale-to-width-down/284?cb=20240316065316",RJ ROCK MNL
+http://roch.ph/bongao/bongao/166.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://www.createphilippines.com/folder_articles/AQVVUppILDe3lnZRqBYws12gFCMYVhabw3snfqTOU0PK9ZICbg.jpeg",BUKO
+http://roch.ph/bongao/bongao/5493.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/gg/gma-news-tv-ph.png",GMA NEWS TV
+http://roch.ph/bongao/bongao/5494.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/pp/pba_rush_ph.png",PBA RUSH
+http://roch.ph/bongao/bongao/5501.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/Fzg7cvg5/ezgif-2751b54ffa1a3cd9.png",EDGE SPORTS
+http://roch.ph/bongao/bongao/96.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/VNx6VvKy/ezgif-25ae2876d4caf39e.png",BILLIARD TV
+http://roch.ph/bongao/bongao/121.m3u8
+
 
 
 
@@ -2804,3 +3311,21 @@ https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 https://ca.streamjo.com/live/samugam.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNgU7NF54IVYt70g2EkiPIAjeB7V_kYcY3jV0uEPsqbKOdPXdhQRR6YBDVj9kqiiWswD0&usqp=CAU" group-title="ShareExt@TAMIL_television",Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
