@@ -1,6 +1,5 @@
-#EXTM3U
-vod_library="https://raw.githubusercontent.com/anomnim/diliatin/main/liatin.m3u"
-billed-msg="masih ngumpulin"
+#EXTM3U billed-msg="masih ngumpulin" vod_library="https://raw.githubusercontent.com/anomnim/diliatin/main/liatin.m3u"
+
 
 #EXTINF=-1 type="playlist", dhany
 https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
